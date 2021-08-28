@@ -1,3 +1,3 @@
-# idli
-# vada
-# dosa
+-idli
+-vada
+-dosa
